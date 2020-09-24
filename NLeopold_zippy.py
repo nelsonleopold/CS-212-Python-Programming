@@ -22,7 +22,7 @@ while True:
         print("Weekly")
     elif choice.upper() == "Q":
         print("Stop")
+        break
     else:
         print("Please enter a valid option from the list above.")
         continue
-    break
